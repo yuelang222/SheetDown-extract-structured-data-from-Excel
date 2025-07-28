@@ -20,5 +20,7 @@ Modify the file path to your target input file.
 ```bash
 python parser.py
 ```
+Original table
 ![image](https://github.com/yuelang222/SheetDown-extract-structured-data-from-Excel/blob/main/example_raw.png)
+Rendered Markdown output
 ![image](https://github.com/yuelang222/SheetDown-extract-structured-data-from-Excel/blob/main/example_extracted.png)
