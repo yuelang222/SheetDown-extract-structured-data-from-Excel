@@ -16,6 +16,9 @@ Python ≥ 3.8
 pip install openpyxl
 ```
 ## Example
+Modify the file path to your target input file.
 ```bash
 python parser.py
 ```
+![image](https://github.com/yuelang222/SheetDown-extract-structured-data-from-Excel/blob/main/example_raw.png)
+![image](https://github.com/yuelang222/SheetDown-extract-structured-data-from-Excel/blob/main/example_extracted.png)
