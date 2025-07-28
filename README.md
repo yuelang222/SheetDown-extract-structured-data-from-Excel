@@ -7,6 +7,7 @@ While working on RAG (Retrieval-Augmented Generation) systems, we found that mos
 Uses openpyxl to parse Excel files, extracting text and embedded images.
 Outputs in Markdown format, with tables and merged cells rendered using HTML (Markdown-compatible).
 Extracted images are saved in an images/ directory, and their paths are embedded in the corresponding cells using HTML <img> tags or Markdown <img> tags.
+This method can process Excel files with multiple sheets.
 
 ## Requirements
 Python ≥ 3.8
